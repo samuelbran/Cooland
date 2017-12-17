@@ -1,0 +1,22 @@
+{
+    "name": "cooland",
+    "displayName": "Cooland",
+    "description": "Fresh Theme for VSCode",
+    "version": "0.0.1",
+    "publisher": "vsce",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cooland",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cooland-color-theme.json"
+            }
+        ]
+    }
+}
