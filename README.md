@@ -9,11 +9,17 @@ Looks even cooler with <a href="https://marketplace.visualstudio.com/items?itemN
 ### .js
 
 <img src="./preview/JS.png" width="1024" height="auto">
+
 ### .vue
+
 <img src="./preview/VUE.png" width="1024" height="auto">
+
 ### .json
+
 <img src="./preview/JSON.png" width="1024" height="auto">
+
 ### .scss
+
 <img src="./preview/SCSS.png" width="1024" height="auto">
 
 Enjoy!
