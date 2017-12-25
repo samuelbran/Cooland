@@ -22,4 +22,5 @@ Looks even cooler with <a href="https://marketplace.visualstudio.com/items?itemN
 
 <img src="./preview/SCSS.png" width="1024" height="auto">
 
+<br><br>
 Enjoy!
