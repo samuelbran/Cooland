@@ -8,7 +8,8 @@ Looks even cooler with <a href="https://marketplace.visualstudio.com/items?itemN
 
 ### .js
 
-<img src="./preview/JS.png" width="1024" height="auto">
+<img src="./preview/JS.png" width="1024" height="auto"><br>
+<img src="./preview/JS_2.png" width="1024" height="auto">
 
 ### .vue
 
