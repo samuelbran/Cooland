@@ -1,6 +1,6 @@
 # Cooland
 
-<p>A cool theme for VSCODE.</p>
+<p>A cool theme for Visual Studio Code.</p>
 
 Looks even cooler with <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a> by Philipp Kief.
 
