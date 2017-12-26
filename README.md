@@ -8,20 +8,20 @@ Looks even cooler with <a href="https://marketplace.visualstudio.com/items?itemN
 
 ### .js
 
-<img src="./preview/JS.png" width="1024" height="auto"><br>
-<img src="./preview/JS_2.png" width="1024" height="auto">
+<img src="https://raw.githubusercontent.com/samuelbran/Cooland/master/preview/JS.png" width="1024" height="auto"><br>
+<img src="https://raw.githubusercontent.com/samuelbran/Cooland/master/preview/JS_2.png" width="1024" height="auto">
 
 ### .vue
 
-<img src="./preview/VUE.png" width="1024" height="auto">
+<img src="https://raw.githubusercontent.com/samuelbran/Cooland/master/preview/VUE.png" width="1024" height="auto">
 
 ### .json
 
-<img src="./preview/JSON.png" width="1024" height="auto">
+<img src="https://raw.githubusercontent.com/samuelbran/Cooland/master/preview/JSON.png" width="1024" height="auto">
 
 ### .scss
 
-<img src="./preview/SCSS.png" width="1024" height="auto">
+<img src="https://raw.githubusercontent.com/samuelbran/Cooland/master/preview/SCSS.png" width="1024" height="auto">
 
 <br><br>
 Enjoy!
