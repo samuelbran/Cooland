@@ -4,6 +4,11 @@
   "description": "Cool Dark Theme for VSCode",
   "version": "0.0.1",
   "publisher": "samuelbran",
+  "icon": "./ico.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelbran/Cooland"
+  },
   "engines": {
     "vscode": "^1.19.0"
   },
